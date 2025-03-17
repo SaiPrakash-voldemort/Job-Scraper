@@ -22,8 +22,8 @@ This project automates job listing extraction, analysis, and sharing using web s
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/SaiPrakash-voldemort/job-scraper-ai.git
-cd job-scraper-ai
+git clone https://github.com/SaiPrakash-voldemort/Job-Scraper.git
+cd Job-Scraper
 ```
 
 ### 2️⃣ Install Dependencies
